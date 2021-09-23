@@ -1,9 +1,10 @@
 # NerdWallet
 
-  <b>Cerințe: </b>
+  <b>Cerințe: </b> <br> 
   -De creat o aplicație pentru calcularea procentului greu.
-  
-  <b>Echipă: </b>
+  <hr>
+   [Însăși link-ul către proiect](https://www.nerdwallet.com/banking/calculator/compound-interest-calculator) 
+  <b>Echipă: </b> <br>
   -Johnny Depp: tester , W-1841 ; <br>
   -Aloe Vera: front-end developer , W-1841 ; <br>
   -Russu Iulia: back-end developer , W-1841 ; <br> 
