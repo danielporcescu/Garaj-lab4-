@@ -1,7 +1,9 @@
-# Garaj-lab4-
-Toate proiectele de succes se încep de la un garaj și o idee bună .
+# NerdWallet
 
-  **Echipă:**
+  <b>Cerințe: </b>
+  -De creat o aplicație pentru calcularea procentului greu.
+  
+  <b>Echipă: </b>
   -Johnny Depp: tester , W-1841 ; <br>
   -Aloe Vera: front-end developer , W-1841 ; <br>
   -Russu Iulia: back-end developer , W-1841 ; <br> 
@@ -11,6 +13,6 @@ Toate proiectele de succes se încep de la un garaj și o idee bună .
   -Nikollos Brow: designer , W-1841 ; <br>
   -Ciornîi Mihai: contabil , W-1841 ; <br>
   <hr>
-  **Proiect:**
+  <b> Proiect: </b>
   
  
