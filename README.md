@@ -46,9 +46,10 @@
    
    <hr>
    <b>Limbaje de programare folosite :</b> <br>
-   - HTML5
-   - CSS3
-   - JavaScript
-   - PHP7
+   - HTML5 <br>
+   - CSS3 <br>
+   - JavaScript <br>
+   - PHP7 <br>
+   - ReactJS <br>
   
   
