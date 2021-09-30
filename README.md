@@ -43,5 +43,12 @@
    [React](https://reactnative.dev/)
    
    Resurse financiare xD
+   
+   <hr>
+   <b>Limbaje de programare folosite :</b> <br>
+   - HTML5
+   - CSS3
+   - JavaScript
+   - PHP7
   
   
